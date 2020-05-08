@@ -8,7 +8,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "scope": "/",
-  "start_url": "www.octofile.com",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
