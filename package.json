@@ -1,6 +1,6 @@
 {
   "name": "cdn",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "octofile.com cdn",
   "main": "index.js",
   "scripts": {
