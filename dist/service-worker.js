@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "about/index.html",
-    "revision": "ff49f14d7c79bb13ec418dbf3fbadc6f"
+    "revision": "6859793234459aaaa6f8b6e786e01970"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/css/0.styles.18ecd941.css",
@@ -286,16 +286,16 @@ self.__precacheManifest = [
     "revision": "fbebef5d2c6e79cea8d8c985eeb6125c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/10.abf19074.js",
-    "revision": "4ace3193febcebd2f8c736bbf0192048"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/10.79feac00.js",
+    "revision": "5525a387631e39ab576757b1aad9fcd6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/11.d11e2fcc.js",
-    "revision": "8ddbddfbeeb7ad9e07ac3af18df5d981"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/11.0752ee63.js",
+    "revision": "939dbdae47a463c4415c826d0419ed98"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/12.27ec8e21.js",
-    "revision": "ccdda9ffbd98d6170f1dd5ba11e89a9f"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/12.c58cf295.js",
+    "revision": "41c9b001fdbd9e4395d42527925b0224"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/13.bfd6ad40.js",
@@ -306,12 +306,12 @@ self.__precacheManifest = [
     "revision": "9769d353131f93dc6123b1c413d2af74"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/15.db47a95a.js",
-    "revision": "5a82c3f5bc8ea4346181287767f571f7"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/15.ebfcda5d.js",
+    "revision": "187e4fe6b24029d0386709790a52b8b6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/16.e6ad36a0.js",
-    "revision": "cd9b05f9a9ce25673dc98aa304fab204"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/16.2ae6579d.js",
+    "revision": "cea59b33c7b7ff2d5cbab67707bc5ae6"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/17.053c0963.js",
@@ -322,8 +322,8 @@ self.__precacheManifest = [
     "revision": "e13d295da740dc7d3619307a9a3df00c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/19.c3f9add8.js",
-    "revision": "1e0c729437f6f351531bd04d5425fb35"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/19.a5a3d94e.js",
+    "revision": "1da4ed17292d9d26cc7cf979a3cbc30f"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/2.9ac4f010.js",
@@ -350,40 +350,40 @@ self.__precacheManifest = [
     "revision": "466fdbe6313756786c087670f1350663"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/25.f246db3b.js",
-    "revision": "a9859a833b9495cd9660e2c3d0f6235e"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/25.cfbecff3.js",
+    "revision": "767f9f23f12e1a61fa6aead1c46f1a0f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/26.59219d20.js",
-    "revision": "10126d7bd4b6cda913b5da1229a5e039"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/26.c038ab24.js",
+    "revision": "efd0dfaf650788fb2ffd586a66c946d7"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/27.f6cd659d.js",
-    "revision": "349692489ac9f8ef6d961aad867fa887"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/27.60ca8558.js",
+    "revision": "5742deb40b0641d43f3142eb9dc8ca76"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/28.a50b4da8.js",
-    "revision": "dab37181be80886ce53a05c0de1fe098"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/28.d2e6043a.js",
+    "revision": "523edd005f1a9d016049bf4ac0b081d9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/29.f4706a87.js",
-    "revision": "f960c64c9929cde528e7498316af6f02"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/29.71afb528.js",
+    "revision": "7143eba02d437742c559ab9974963341"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/3.ca1f3a15.js",
-    "revision": "f6a7e6f26b39306bd6e5720a3bb6e854"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/3.f7f7c47f.js",
+    "revision": "ce1d2a76353d7753eb7170cebeb7632a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/30.df47b475.js",
-    "revision": "2aa7d05cf7de81bf63a98ac5fb2ac890"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/30.b564a1c5.js",
+    "revision": "6743f62496ae82d0b4162d510ab6e494"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/31.ca1f23e0.js",
     "revision": "b63045fc46b288d717e4381faf933492"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/32.724f39e6.js",
-    "revision": "a291e506c417e501b40ae653655b3768"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/32.77a6dd85.js",
+    "revision": "11fedbf820c36b90a82514494180a70e"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/33.cc79a121.js",
@@ -394,16 +394,16 @@ self.__precacheManifest = [
     "revision": "52601289611b9c5120754739306e4ec6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/35.1696d792.js",
-    "revision": "5c029b3f9dc99e4539383cf145313b62"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/35.63795e62.js",
+    "revision": "f585b9da94a65d5fd20c27bf430bc658"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/36.fc05463e.js",
-    "revision": "4bb066738e0bb9732267cb749db43784"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/36.c1a1adf3.js",
+    "revision": "43d86953c55d0f737866f0f8263dbed2"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/37.9bf4a385.js",
-    "revision": "84624fe7f990c66a40bbf9a5f2292928"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/37.3554db36.js",
+    "revision": "66dec6894102e074d06ad6637c23f243"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/38.6712a2bb.js",
@@ -414,8 +414,8 @@ self.__precacheManifest = [
     "revision": "5aaa64fc8e394564a20bec09020dfed8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/4.283758e3.js",
-    "revision": "ee94f8429269929fda535841a154e8fe"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/4.1731f798.js",
+    "revision": "649c7ebbc01419a12ca70764bcefcda1"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/40.82a12443.js",
@@ -430,24 +430,24 @@ self.__precacheManifest = [
     "revision": "f7f705752da16451ec955f5ff9f2ab08"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/6.d51ec28d.js",
-    "revision": "43ea9b20631578c27ac00ed25888fea2"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/6.b5e433bc.js",
+    "revision": "7f77dc1d33ce73494517aa7164433102"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/7.69ce51dd.js",
-    "revision": "d2032b9070a4257058407bf81b914b32"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/7.2795082c.js",
+    "revision": "040ea2116ebd808e18250a1475793498"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/8.6c455b22.js",
     "revision": "dc1eb8fbbc5cc195a4ff9d1b39c8f966"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/9.1b8a53b0.js",
-    "revision": "5c2e191c7a1ff1d74ef8babb5de5bc42"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/9.ef056b65.js",
+    "revision": "ffbd091e850057e012a0133fe71e07dd"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/app.2b129220.js",
-    "revision": "8358f4bc9aad1c521fcc1cc0adcc37a2"
+    "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/assets/js/app.b6f40a0f.js",
+    "revision": "d598f6e974b69f42a9c332f8d4d7bd92"
   },
   {
     "url": "banner.svg",
@@ -455,15 +455,15 @@ self.__precacheManifest = [
   },
   {
     "url": "development-progress/index.html",
-    "revision": "a6a0b5d95d3212c53226c290e686c336"
+    "revision": "7dac999755f454c57ba5eb7e603e0b33"
   },
   {
     "url": "download/index.html",
-    "revision": "252a8da22a3c77ee5a42be205b5f0ac2"
+    "revision": "11b618ca4fee7fce60301d8c81aa757a"
   },
   {
     "url": "faq/index.html",
-    "revision": "95686096b5c6468b7011a32be3ebd755"
+    "revision": "6daa15d37041f911156e62b224e631a7"
   },
   {
     "url": "favicon.png",
@@ -471,43 +471,43 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/auto-stored-to-the-album.html",
-    "revision": "53d07601833e7bf67fb09d1f295b8273"
+    "revision": "c061a20e0bbfd83e862ca344c0489a28"
   },
   {
     "url": "guide/bind-device.html",
-    "revision": "31b848f1fc4708962c7e2b77b1f32267"
+    "revision": "42486ccb53877538bf70d333ca907ee9"
   },
   {
     "url": "guide/index.html",
-    "revision": "880ebe8f70dda4d81f2d4c47b513ec90"
+    "revision": "fc4284e70ee5739909e11bb175f29be5"
   },
   {
     "url": "guide/quick-copy.html",
-    "revision": "ed066ffc24b8f82105b08d490e062199"
+    "revision": "c7e77653d71a7e939577a1bba9e3919a"
   },
   {
     "url": "guide/receive-file.html",
-    "revision": "779256b178863a79e6dd0608bb8e5651"
+    "revision": "a1b2341be397f8898cca7fc355db88ac"
   },
   {
     "url": "guide/receive-from-nintendo-switch.html",
-    "revision": "2307860d1a4932054451630ddd5cdd45"
+    "revision": "2297de9cc6c8954a193e14fc55cf6769"
   },
   {
     "url": "guide/send-file-to-browser.html",
-    "revision": "1082507a279c4e4a92a9b902258c13c1"
+    "revision": "9c4d61f673de770d0a797c33ad9ffc02"
   },
   {
     "url": "guide/send-file-to-kindle.html",
-    "revision": "688030f426f0c1fb1a3a0987c1ede240"
+    "revision": "ac4ec46b12f92dcd2d649fe4a489fdc6"
   },
   {
     "url": "guide/send-file.html",
-    "revision": "ac635207f9e4045c4da83d6d55a9ce77"
+    "revision": "ad999605ef703efacdfd070796e78646"
   },
   {
     "url": "guide/share-files-in-other-apps.html",
-    "revision": "7e66dfca827f8445c84a6fea908588f6"
+    "revision": "43d4c29b6b5091d37b75b02a16f08a7b"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/hypobenthos/cdn/dist/images/icons/icon-128x128.png",
@@ -547,7 +547,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f847c9793dcdde7a2fdf909426f5ec1e"
+    "revision": "abf614aba7683cb4ef0e38c0d6be1b16"
   },
   {
     "url": "logo.png",
@@ -555,79 +555,79 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy-policy/index.html",
-    "revision": "d599827d51fae955d89b336bf4c2a541"
+    "revision": "3660c1c250a9f1e53c16cb4bbee84bbc"
   },
   {
     "url": "terms-of-service/index.html",
-    "revision": "e766ae807e2af6409d9a38f39184434a"
+    "revision": "2a2f1a4cfdb310603b5ff6c3a4ba0848"
   },
   {
     "url": "zh/about/index.html",
-    "revision": "4e4dcfbb0bbea703d848263bb539f8b8"
+    "revision": "64c955c1688166694b0f2c7ab4184f18"
   },
   {
     "url": "zh/development-progress/index.html",
-    "revision": "d3d792c7e5ff38933ce235b79c0cd4c0"
+    "revision": "d825f6470579964a138b581d45ddea0f"
   },
   {
     "url": "zh/download/index.html",
-    "revision": "5e07dead3c886e8c2390c8b7478ae194"
+    "revision": "afb39186bae8561d7b9260f214140693"
   },
   {
     "url": "zh/faq/index.html",
-    "revision": "14a5454933f153c4e96fb7801d2c9622"
+    "revision": "27a18e31f1a888276c734d0aebe86dd6"
   },
   {
     "url": "zh/guide/auto-stored-to-the-album.html",
-    "revision": "e5fa7ea40d5c8d5dfc885d599529ce13"
+    "revision": "a38ee5e7733e23fec15ad4067dc229b8"
   },
   {
     "url": "zh/guide/bind-device.html",
-    "revision": "ef3221ff781956d4fbf8e0b5c46e69ff"
+    "revision": "0cb181a8ff46ea530cd67a5e2b671d23"
   },
   {
     "url": "zh/guide/index.html",
-    "revision": "384238c76dba3d0f7534108eb09fd184"
+    "revision": "b45386db70e855241feb1932ec52c42c"
   },
   {
     "url": "zh/guide/quick-copy.html",
-    "revision": "00f62cfc21b3486fd5165fbc9d8a060a"
+    "revision": "42dedba8cd7c7afa09f559530cf0119a"
   },
   {
     "url": "zh/guide/receive-file.html",
-    "revision": "3999150a6810a8786d8aaba04952fb40"
+    "revision": "b033693f296eb8060f58da583b660cd6"
   },
   {
     "url": "zh/guide/receive-from-nintendo-switch.html",
-    "revision": "d35dd01c1d1fa8c1f06ab38448fee76b"
+    "revision": "198eb04336040d9b2f240851636e6e57"
   },
   {
     "url": "zh/guide/send-file-to-browser.html",
-    "revision": "12fe4aa67ab98d417c488ec0b20f1a0f"
+    "revision": "042d4b7f2be2ee236b55a5610d37b7ae"
   },
   {
     "url": "zh/guide/send-file-to-kindle.html",
-    "revision": "74f83f56541b6c4084f638b19085ba51"
+    "revision": "774e833f0b87011ebc17eb2ed69cf6b3"
   },
   {
     "url": "zh/guide/send-file.html",
-    "revision": "64e4c5fe4783f4fe5f57d99877bd3a44"
+    "revision": "b0d56eb7d7f6ee5962ce6d0b4e176a10"
   },
   {
     "url": "zh/guide/share-files-in-other-apps.html",
-    "revision": "8549a42f205554ed52b42043599d9fa7"
+    "revision": "12374142488ead38f9127a5b53b2dc65"
   },
   {
     "url": "zh/index.html",
-    "revision": "e21bd6cd0f79ab4d75764ce838ecd68d"
+    "revision": "6144112ff12a78ed35fc70ffd5cc2be3"
   },
   {
     "url": "zh/privacy-policy/index.html",
-    "revision": "4fa30f8d4a53dc1c4e541d850989ffa4"
+    "revision": "dae3b4f1927532247859133dadd3b2ee"
   },
   {
     "url": "zh/terms-of-service/index.html",
-    "revision": "2806935930448d985f94281681933e4b"
+    "revision": "8b5c7f21cf8c537ff36224d3566b74c4"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
