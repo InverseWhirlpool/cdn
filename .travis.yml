@@ -7,6 +7,10 @@ branches:
   only:
   - master
 
+deploy:
+    on:
+    branch: master
+
 before_script:
 - git config --global user.name "travis"
 - git config --global user.email "travis@miantiao.me"
